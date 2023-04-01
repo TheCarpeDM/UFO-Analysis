@@ -6,7 +6,7 @@ Our goal was to update Dana's webpage to provide a more in-depth analysis of UFO
 ## Results
 
 To perform a search, simply scroll down to the search fields:
-![Search Fields Left side of page](../static/images/SearchFields.png)
+![Search Fields Left side of page](static/images/SearchFields.png)
 
 Click on any of the fields, type your search term in, and either use the "Tab" key or click on a different field to start your search!
 
